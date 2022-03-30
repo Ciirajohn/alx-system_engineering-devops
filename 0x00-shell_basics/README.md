@@ -1,1 +1,1 @@
-Script for showing current working directory
+Script for listing
